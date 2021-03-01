@@ -81,7 +81,7 @@ const scoringAlgorithms = [
   },
   { name: 'Scrabble',
     description: 'The traditional scoring algorithm',
-    scoringFunction: oldScrabbleScorer
+    scoringFunction: scrabbleScore
   }
 ];
 
